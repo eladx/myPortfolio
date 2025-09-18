@@ -294,7 +294,6 @@ body {
     background-color: var(--primary-color);
     border-radius: 10px;
     line-height: 1.5;
-    border: 1px solid var(--cta);
 }
 
 .offer:nth-child(3) {
